@@ -24,8 +24,5 @@ If some images or assets do not load:
 1. Ensure that your file paths are relative and correctly referenced.
 2. If using files or folders starting with underscores (`_`), ensure that a `.nojekyll` file exists in the root of the repository.
 
-## Contributing
-Feel free to fork the repository, make changes, and submit pull requests. Please ensure that all changes adhere to the structure used for Web Publisher 2.0 output and that no files are omitted.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
