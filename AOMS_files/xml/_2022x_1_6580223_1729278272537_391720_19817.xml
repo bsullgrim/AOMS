@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?><magicdraw><comment id="_2022x_1_6580223_1729278272537_391720_19817" refElementId="_2022x_1_6580223_1729278272537_391720_19817" humanType="Comment" classType="Comment" requireSort="node" icon="AOMS_files/icon_comment_1890190272.jpg"><owningElement refid="_2022x_1_6580223_1729005661734_974314_4916" refElementId="_2022x_1_6580223_1729005661734_974314_4916" humanType="Block" classType="Class" name="AOMS Spacecraft - Physical" hasDiagram="true" icon="AOMS_files/icon_block_345690899.jpg" humanName="Owning Element"/><owner refid="_2022x_1_6580223_1729005661734_974314_4916" refElementId="_2022x_1_6580223_1729005661734_974314_4916" humanType="Block" classType="Class" name="AOMS Spacecraft - Physical" hasDiagram="true" icon="AOMS_files/icon_block_345690899.jpg" humanName="Owner" mode="s,e"/><documentation humanName="Documentation"></documentation><body humanName="Body" mode="s,e">Refer to SMAD Subsystems in Table 14-6
+- Propulsion
+- Attitude Determination and Control (ADC) or Attitude Contol System (ACS)
+- Position and Orbit Determination and Control
+- On Board Processing or Command and Data Handling (C&amp;DH)
+- Telemetry, Tracking and Command (TT&amp;C) or RF Communications
+- Power
+- Structures and Mechanisms
+- Thermal Controls</body><TO_DO humanName="To Do" mode="s,e"></TO_DO><ActiveHyperlink humanName="Active Hyperlink"></ActiveHyperlink><report_appliedStereotype_tags humanName="Applied Stereotype" requireSort="element" mode="s,e"/></comment></magicdraw>
