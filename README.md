@@ -11,13 +11,13 @@ The output from **Web Publisher 2.0** has been pushed to this repository and is 
 ### Accessing the Documentation
 You can access the full documentation and visual assets via the GitHub Pages site:
 
-[**AOMS Web Documentation**](https://bsullgrim.github.io/AOMS/)
+[**AOMS Web Documentation**](https://github.com/bsullgrim/AOMS/)
 
 ## GitHub Pages Hosting
 
 This repository is set up to serve the project via GitHub Pages. Once deployed, the content will be accessible at:
 
-[https://bsullgrim.github.io/AOMS/](https://bsullgrim.github.io/AOMS/)
+[https://bsullgrim.github.io/AOMS/](https://bsullgrim.github.io/AOMS/AOMS.html)
 
 ### Troubleshooting
 If some images or assets do not load:
